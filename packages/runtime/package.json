@@ -36,7 +36,7 @@
     "@tutorialkit/types": "workspace:*",
     "@webcontainer/api": "1.5.1",
     "nanostores": "^0.10.3",
-    "picomatch": "^4.0.2"
+    "picomatch": "^4.0.4"
   },
   "devDependencies": {
     "@types/picomatch": "^3.0.1",
